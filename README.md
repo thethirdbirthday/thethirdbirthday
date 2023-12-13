@@ -7,4 +7,4 @@
 
   - [Active Directory Bulk User Creation]()
   - [FIM (File Integrity Monitor)]()
-  - [Powershell Commands Rundown]
+  - [Powershell Commands Rundown](https://github.com/thethirdbirthday/powershell-commands-practice)
