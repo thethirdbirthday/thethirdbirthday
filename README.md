@@ -7,3 +7,6 @@
 
   - [Active Directory Bulk User Creation]()
   - [Powershell Commands Rundown](https://github.com/thethirdbirthday/powershell-commands-practice)
+
+- <b>Python </b>
+- - [Introduction to Python Harvard CS50](https://github.com/thethirdbirthday/harvard_python)
