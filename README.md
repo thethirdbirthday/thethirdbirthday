@@ -11,4 +11,8 @@
 - <b>Python </b>
 - - [Learning Python at Harvard CS50](https://github.com/thethirdbirthday/harvard_python)
 
+ <h2>👨‍💻 IT Tech Projects:</h2>
+
+- [iPod classic restortion]()
+
 <h2>👨‍💻 Rhetorical Writing:</h2>
