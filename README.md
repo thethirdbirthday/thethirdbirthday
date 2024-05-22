@@ -13,6 +13,7 @@
 
  <h2>👨‍💻 IT Tech Projects:</h2>
 
-- [iPod classic restortion]()
+- [Troubleshooting PC RAM]()
+- [iPod classic restoration]()
 
 <h2>👨‍💻 Rhetorical Writing:</h2>
