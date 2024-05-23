@@ -14,11 +14,8 @@
 - <b> Hardware </b>
 - [Troubleshooting PC RAM]()
 - [iPod classic restoration]()
-- 
- <h2> 📆 Management Projects:</h2>
-- <b> Travel Itineraries </b>
-
-- [iPod classic restoration]()
-
+  
+- <h2>📆 Management Projects:</h2>
+  - <b> Travel Itineraries </b>
 
 <h2> ✏️ Writing Samples:</h2>
