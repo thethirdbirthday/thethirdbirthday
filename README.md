@@ -13,7 +13,7 @@
 
 - <b> Hardware </b>
   - [Troubleshooting PC RAM]()
-  - [iPod classic restoration (Battery & SSD storage replacement)]()
+  - [iPod classic restoration (Battery & SSD mod)]()
   
 <h2>📆 Management Projects:</h2>
 
