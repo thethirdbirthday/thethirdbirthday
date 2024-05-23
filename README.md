@@ -6,10 +6,10 @@
 - <b>PowerShell</b>
 
   - [Active Directory Bulk User Creation]()
-  - [Powershell Commands Rundown](https://github.com/thethirdbirthday/powershell-commands-practice)
+  - [Powershell Commands](https://github.com/thethirdbirthday/powershell-commands-practice)
 
 - <b>Python </b>
-  - [Learning Python at Harvard CS50](https://github.com/thethirdbirthday/harvard_python)
+  - [Python at Harvard CS50](https://github.com/thethirdbirthday/harvard_python)
 
 - <b> Hardware </b>
   - [Troubleshooting PC RAM]()
