@@ -12,10 +12,11 @@
   - [Learning Python at Harvard CS50](https://github.com/thethirdbirthday/harvard_python)
 
 - <b> Hardware </b>
-- [Troubleshooting PC RAM]()
-- [iPod classic restoration]()
+  - [Troubleshooting PC RAM]()
+  - [iPod classic restoration]()
   
-- <h2>📆 Management Projects:</h2>
-  - <b> Travel Itineraries </b>
+<h2>📆 Management Projects:</h2>
+
+- <b>Travel Itineraries</b>
 
 <h2> ✏️ Writing Samples:</h2>
