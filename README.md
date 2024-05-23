@@ -1,6 +1,6 @@
 <h1>Hey, it's Henry! <br/><a href="https://github.com/thethirdbirthday">Programmer</a>, <a href=>IT Professional</a>, <a href=>Writer</a>
 
-<h2>👨‍💻 IT and Software Development Projects:</h2>
+<h2>👨‍💻 IT & Software Development Projects:</h2>
 
 
 - <b>PowerShell</b>
