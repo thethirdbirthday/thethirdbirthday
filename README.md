@@ -13,7 +13,7 @@
 
 - <b> Hardware </b>
   - [Troubleshooting PC RAM]()
-  - [iPod classic restoration]()
+  - [iPod classic restoration(parts pending)]()
   
 <h2>📆 Management Projects:</h2>
 
