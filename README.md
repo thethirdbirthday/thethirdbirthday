@@ -20,8 +20,7 @@
 - <b>Travel Itineraries</b>
   - [Japan]()
   - [Korea]()
-  - [Montreal]
-  - [Quebec]{}
+  - [Quebec]()
   - [California]()
     
 
