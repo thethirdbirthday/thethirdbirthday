@@ -25,3 +25,6 @@
     
 
 <h2> ✏️ Writing Samples:</h2>
+
+  - <b>Education<b>
+  - [Preparing for the Regents](https://www.thinkprepny.com/post/2019/05/02/the-importance-of-regents-exams-how-to-prep-for-it)
