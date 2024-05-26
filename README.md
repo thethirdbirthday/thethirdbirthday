@@ -18,10 +18,10 @@
 <h2>📆 Management Projects:</h2>
 
 - <b>Travel Itineraries</b>
-  - [Japan]()
-  - [Korea]()
-  - [Quebec]()
   - [California]()
+  - [Quebec]()
+  - [Japan]()
+
     
 
 <h2> ✏️ Writing Samples:</h2>
