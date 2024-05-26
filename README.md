@@ -5,7 +5,7 @@
 
 - <b>PowerShell</b>
 
-  - [Active Directory Bulk User Creation]()
+  - [Active Directory Bulk User Creation](https://github.com/thethirdbirthday/Active-Directory)
   - [Powershell Commands](https://github.com/thethirdbirthday/powershell-commands-practice)
 
 - <b>Python </b>
