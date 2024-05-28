@@ -12,8 +12,8 @@
   - [Python at Harvard CS50](https://github.com/thethirdbirthday/harvard_python)
 
 - <b> Hardware </b>
-  - [Troubleshooting PC RAM]()
-  - [iPod classic restoration (Battery & SSD mod)]()
+
+  - [iPod classic restoration (Battery & SSD mod)](https://github.com/thethirdbirthday/iPod-5th-Gen-Mod)
   
 <h2>📆 Management Projects:</h2>
 
