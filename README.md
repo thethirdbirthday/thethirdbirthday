@@ -17,6 +17,9 @@
   
 <h2>📆 Management Projects:</h2>
 
+- <b>WGU Capstone</b>
+  - Cybersecurity Company Businesss Plan
+  
 - <b>Travel Itineraries</b>
   - [California]()
   - [Quebec]()
