@@ -13,7 +13,7 @@
 
 - <b> Hardware </b>
 
-  - [iPod classic restoration (Battery & SSD mod)](https://github.com/thethirdbirthday/iPod-5th-Gen-Mod)
+  - [iPod classic battery & storage mods](https://github.com/thethirdbirthday/iPod-5th-Gen-Mod)
   
 <h2>📆 Management Projects:</h2>
 
