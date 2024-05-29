@@ -18,7 +18,7 @@
 <h2>📆 Management Projects:</h2>
 
 - <b>WGU</b>
-  - [QFT2 - Cybersecurity Company Businesss Plan]()
+  - [QFT2 Capstone - Cybersecurity Company Businesss Plan](https://github.com/thethirdbirthday/WGU_Capstone_hskim/tree/6901154198bcdc454088b3b3cf6760f59333f4fb)
   - [D361 - Business Simulation]()
   
 - <b>Travel Itineraries</b>
