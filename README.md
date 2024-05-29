@@ -17,8 +17,9 @@
   
 <h2>📆 Management Projects:</h2>
 
-- <b>WGU Capstone</b>
-  - [Cybersecurity Company Businesss Plan]()
+- <b>WGU</b>
+  - [QFT2 - Cybersecurity Company Businesss Plan]()
+  - [D361 - Business Simulation]()
   
 - <b>Travel Itineraries</b>
   - [California]()
@@ -30,5 +31,6 @@
 <h2>✏️ Writing Samples:</h2>
 
 - <b>Education</b>
+
   - [Preparing for the Regents Exams](https://www.thinkprepny.com/post/2019/05/02/the-importance-of-regents-exams-how-to-prep-for-it)
   - [Beating Senior Slump](https://www.thinkprepny.com/post/2018/02/09/tips-to-avoid-the-dreaded-senior-slump)
