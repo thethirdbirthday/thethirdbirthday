@@ -9,7 +9,7 @@
   - [Powershell Commands](https://github.com/thethirdbirthday/powershell-commands-practice)
 
 - <b>Python</b>
-  - [Python at Harvard CS50](https://github.com/thethirdbirthday/harvard_python)
+  - [CS50 Python at Harvard](https://github.com/thethirdbirthday/harvard_python)
 
 - <b> Hardware </b>
 
