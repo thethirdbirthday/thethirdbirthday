@@ -22,11 +22,8 @@
   - [D361 - Business Simulation](https://github.com/thethirdbirthday/d361_hskim)
   
 - <b>Travel Itineraries</b>
-  - [California]()
-  - [Montreal]()
-  - [Japan]()
 
-    
+  - [Montreal](https://github.com/thethirdbirthday/montreal_presentation/blob/0d73c9d8a33990c10b7784a9bbd7ad6380b45a55/README.md)
 
 <h2>✏️ Writing Samples:</h2>
 
