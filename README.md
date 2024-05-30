@@ -19,7 +19,7 @@
 
 - <b>WGU</b>
   - [QFT2 Capstone - Cybersecurity Company Businesss Plan](https://github.com/thethirdbirthday/WGU_Capstone_hskim/tree/6901154198bcdc454088b3b3cf6760f59333f4fb)
-  - [D361 - Business Simulation]()
+  - [D361 - Business Simulation](https://github.com/thethirdbirthday/d361_hskim)
   
 - <b>Travel Itineraries</b>
   - [California]()
