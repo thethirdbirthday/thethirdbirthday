@@ -18,7 +18,7 @@
 <h2>📆 Management Projects:</h2>
 
 - <b>WGU</b>
-  - [QFT2 - Capstone Businesss Plan](https://github.com/thethirdbirthday/WGU_Capstone_hskim/tree/6901154198bcdc454088b3b3cf6760f59333f4fb)
+  - [QFT2 - Capstone Businesss Plan](https://github.com/thethirdbirthday/qft_capstone_hskim)
   - [D361 - Business Simulation](https://github.com/thethirdbirthday/d361_hskim)
   
 - <b>Travel Itineraries</b>
