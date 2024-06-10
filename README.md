@@ -21,9 +21,9 @@
   - [QFT2 - Capstone Businesss Plan](https://github.com/thethirdbirthday/qft_capstone_hskim)
   - [D361 - Business Simulation](https://github.com/thethirdbirthday/d361_hskim)
   
-- <b>Travel Itineraries</b>
+- <b>Travel</b>
 
-  - [Montreal](https://github.com/thethirdbirthday/montreal_presentation/blob/0d73c9d8a33990c10b7784a9bbd7ad6380b45a55/README.md)
+  - [Montreal Presentation](https://github.com/thethirdbirthday/montreal_presentation/blob/0d73c9d8a33990c10b7784a9bbd7ad6380b45a55/README.md)
 
 <h2>✏️ Writing Samples:</h2>
 
