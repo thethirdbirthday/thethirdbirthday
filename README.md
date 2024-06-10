@@ -27,7 +27,7 @@
 
 <h2>✏️ Writing Samples:</h2>
 
-- <b>THiNK PREP Blog</b>
+- <b>Blog Posts</b>
 
   - [Preparing for the Regents Exams](https://www.thinkprepny.com/post/2019/05/02/the-importance-of-regents-exams-how-to-prep-for-it)
   - [Beating Senior Slump](https://www.thinkprepny.com/post/2018/02/09/tips-to-avoid-the-dreaded-senior-slump)
