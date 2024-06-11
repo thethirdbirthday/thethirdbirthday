@@ -10,6 +10,9 @@
 
 - <b>Python</b>
   - [CS50 Harvard Python](https://github.com/thethirdbirthday/harvard_python)
+ 
+- <b>Ticketing<b>
+  - [Zendesk](https://github.com/thethirdbirthday/zendesk_ticketing/tree/main)
 
 - <b> Hardware </b>
 
