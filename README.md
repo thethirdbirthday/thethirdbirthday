@@ -16,7 +16,7 @@
 
 - <b> Hardware </b>
 
-  - [iPod Classic battery & storage mods](https://github.com/thethirdbirthday/iPod-5th-Gen-Mod)
+  - [iPod Video battery & storage mods](https://github.com/thethirdbirthday/iPod-5th-Gen-Mod)
   
 <h2>📆 Business Administration Projects:</h2>
 
