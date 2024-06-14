@@ -9,7 +9,7 @@
   - [Powershell Commands](https://github.com/thethirdbirthday/powershell-commands-practice)
 
 - <b>Python</b>
-  - [CS50 Harvard Python](https://github.com/thethirdbirthday/harvard_python)
+  - [CS50 - Harvard Python](https://github.com/thethirdbirthday/harvard_python)
  
 - <b>Zendesk</b>
   - [Creating and Resolving Sample Ticket](https://github.com/thethirdbirthday/zendesk_ticketing/tree/main)
