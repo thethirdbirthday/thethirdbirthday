@@ -5,7 +5,7 @@
 
 - <b>Active Directory</b>
 
-  - [VirtualBox Adding Users to Network](https://github.com/thethirdbirthday/Active-Directory)
+  - [Adding Users in Virtual Environment](https://github.com/thethirdbirthday/Active-Directory)
 
 - <b>PowerShell</b>
 
