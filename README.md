@@ -5,7 +5,7 @@
 
 - <b>Active Directory</b>
 
-  - [Adding Users in Virtual Environment](https://github.com/thethirdbirthday/Active-Directory)
+  - [Managing Users in a Virtual Environment](https://github.com/thethirdbirthday/Active-Directory)
 
 - <b>PowerShell</b>
 
