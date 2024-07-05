@@ -14,7 +14,8 @@
 - <b>Python</b>
 
   - [CS50 - Harvard Python](https://github.com/thethirdbirthday/harvard_python)
- 
+  - [File Integrity Monitor](https://github.com/thethirdbirthday/file_integrity_monitor/tree/a6fc1a16ff1f3c4a10bef5415961eca16f407528)
+    
 - <b>Zendesk</b>
 
   - [Creating and Resolving Sample Ticket](https://github.com/thethirdbirthday/zendesk_ticketing/tree/main)
