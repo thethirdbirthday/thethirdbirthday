@@ -1,4 +1,4 @@
-<h1>Hello, it's Henry! <br/><a href="https://github.com/thethirdbirthday"></a> <a href=>IT Professional</a>, <a href=>Programmer</a>,<a href=>Writer</a>
+<h1>Hello, it's Henry! <br/><a href="https://github.com/thethirdbirthday"></a> IT Professional, Programmer, Writer
 
 <h2>👨‍💻IT & Software Development Projects:</h2>
 
