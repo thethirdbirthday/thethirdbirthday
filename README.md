@@ -5,7 +5,7 @@
 
 - <b>Active Directory</b>
 
-  - [Configuring Active Directory and Adding Users in a Virtual Environment](https://github.com/thethirdbirthday/Active-Directory)
+  - [Active Directory Configuration and User Management in a Virtual Environment](https://github.com/thethirdbirthday/Active-Directory)
 
 - <b>PowerShell</b>
 
@@ -13,12 +13,13 @@
 
 - <b>Python</b>
 
+  - [Exploring Cyber Security Concepts: File Integrity Monitor](https://github.com/thethirdbirthday/file_integrity_monitor/tree/a6fc1a16ff1f3c4a10bef5415961eca16f407528)
   - [CS50 - Harvard Python](https://github.com/thethirdbirthday/harvard_python)
-  - [Exploring Cyber Security Concepts - File Integrity Monitor](https://github.com/thethirdbirthday/file_integrity_monitor/tree/a6fc1a16ff1f3c4a10bef5415961eca16f407528)
+
     
 - <b>Zendesk</b>
 
-  - [Creating and Resolving Sample Ticket](https://github.com/thethirdbirthday/zendesk_ticketing/tree/main)
+  - [Zendesk Service Management: Sample Ticket Resolution](https://github.com/thethirdbirthday/zendesk_ticketing/tree/main)
 
 - <b> Hardware </b>
 
