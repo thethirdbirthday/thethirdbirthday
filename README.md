@@ -1,4 +1,4 @@
-<h1>Hello, it's Henry! <br/><a href="https://github.com/thethirdbirthday"></a> IT Professional, Programmer, Writer
+<h1>Hello, it's Henry! <br/><a href="https://www.linkedin.com/in/henry-kim-94208a273/"></a> IT Professional, Programmer, Writer
 
 <h2>👨‍💻IT & Software Development Projects:</h2>
 
