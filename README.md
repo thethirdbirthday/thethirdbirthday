@@ -15,7 +15,7 @@
 
   - [Exploring Cyber Security Concepts: File Integrity Monitor](https://github.com/thethirdbirthday/file_integrity_monitor/tree/a6fc1a16ff1f3c4a10bef5415961eca16f407528)
   - [CS50 - Harvard Python](https://github.com/thethirdbirthday/harvard_python)
-  - 
+  
 - <b>PowerShell</b>
 
   - [Powershell Commands](https://github.com/thethirdbirthday/powershell-commands-practice)
