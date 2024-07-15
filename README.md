@@ -9,7 +9,7 @@
 
 - <b>Zendesk</b>
 
-  - [Zendesk Service Management: Sample Ticket Resolution](https://github.com/thethirdbirthday/zendesk_ticketing/tree/main)
+  - [Zendesk Service Management: Ticket Resolution](https://github.com/thethirdbirthday/zendesk_ticketing/tree/main)
 
 - <b>Python</b>
 
