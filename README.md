@@ -14,7 +14,7 @@
 - <b>Python</b>
 
   - [Exploring Cyber Security Concepts: File Integrity Monitor](https://github.com/thethirdbirthday/file_integrity_monitor/tree/main)
-  - [CS50 - Harvard Python](https://github.com/thethirdbirthday/harvard_python)
+  - [CS50 - Programming with Python @ Harvard](https://github.com/thethirdbirthday/harvard_python)
   
 - <b>PowerShell</b>
 
