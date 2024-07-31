@@ -22,7 +22,7 @@
 
 - <b> Hardware </b>
 
-  - [iPod Video Battery and Storage Mods - Troubleshooting and Restoration](https://github.com/thethirdbirthday/iPod-5th-Gen-Mod)
+  - [Vintage iPod Troubleshooting and Restoration](https://github.com/thethirdbirthday/iPod-5th-Gen-Mod)
   
 <h2>📆 Business Administration Projects:</h2>
 
