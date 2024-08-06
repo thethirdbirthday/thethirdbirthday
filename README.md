@@ -24,7 +24,7 @@
 
   - [Vintage iPod Troubleshooting and Restoration](https://github.com/thethirdbirthday/iPod-5th-Gen-Mod)
   
-<h2>📆 Business Administration Projects:</h2>
+<h2>📆 Project Management Projects:</h2>
 
 - <b>WGU</b>
   - [QFT2 - Capstone Businesss Plan](https://github.com/thethirdbirthday/qft_capstone_hskim)
